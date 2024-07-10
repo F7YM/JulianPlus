@@ -1,7 +1,7 @@
 # JulianPlus
 ## 屏幕截图
 安装效果
-https://github.com/F7YM/JulianPlus/blob/main/ScreenShots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-09%20211806.png
+[pic1](https://github.com/F7YM/JulianPlus/blob/main/ScreenShots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-09%20211806.png)
 ## 下载/安装
 ### 下载
 https://github.com/F7YM/JulianPlus/releases/download/releases/JulianPlus.zip
