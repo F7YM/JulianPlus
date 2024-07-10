@@ -1,0 +1,20 @@
+{
+    "name": "JulianPlus",
+    "version": "1.1.0",
+    "manifest_version": 3,
+    "description": "创游世界网页端优化",
+    "permissions": ["activeTab","storage"],
+    "content_scripts":[{
+            "matches": ["*://*.cysj2-web.hortorinteractive.com/*"],
+            "css": ["backgroundColor.css"]
+        }],
+    "action":{
+        "default_popup": "popup.html"
+    },
+    "icons":{
+        "16": "icons/JulianPlus16x16.png",
+        "32": "icons/JulianPlus32x32.png",
+        "48": "icons/JulianPlus48x48.png",
+        "128": "icons/JulianPlus128x128.png"
+    }
+}
